@@ -34,11 +34,17 @@ Additionally, access to TamilYogi can be unreliable due to frequent shutdowns an
 Proxy sites, or mirror sites, replicate the content and functionality of TamilYogi, allowing access even when the main site is blocked or unavailable. Here are some verified TamilYogi proxy sites:
 
 https://tamilyogi.cc
+
 https://tamilyogi.se/
+
 https://tamilyogi.wiki/
+
 https://tamilyogi.blog/
+
 https://tamilyogi.plus
+
 https://tamilyogi.to
+
 While these proxies can help you access TamilYogi, it is crucial to respect copyright regulations and ensure you are not violating any laws in the process.
 
 # Choosing a Reliable TamilYogi Proxy Server
